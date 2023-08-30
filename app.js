@@ -56,7 +56,7 @@ let concesionaria = {
 }
 
 
-console.log(concesionaria.autosQuePuedeComprar('Juan'));
+//console.log(concesionaria.autosQuePuedeComprar('Juan'));
 
 
 
